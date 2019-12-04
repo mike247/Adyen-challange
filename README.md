@@ -4,7 +4,8 @@ This is my example code for the Adyen front end challenge
 ## Project setup
  1) Clone the repo
  2) Install dependencies
-To install the npm dependencies run command at the root
+ 
+To install the npm dependencies run this command at the root
 ```
 npm install
 ```
